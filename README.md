@@ -19,9 +19,7 @@ _**Note**: please take into account that it is built for demo purpose but not fo
 ### Quick start
 
 ```bash
-npx create-react-app freemonkey
-npm install react-highlight-words
-npm start
+cd app && npm start
 ```
 
 Then please open [localhost:3000](http://localhost:3000) endpoint.
@@ -39,3 +37,4 @@ You can reach out me at:
 1. clone the repository
 2. configure Git for the first time after cloning with your `name` and `email`
 3. install `npm` package manager on your machine
+
