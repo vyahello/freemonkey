@@ -32,7 +32,7 @@ Author – Volodymyr Yahello
 
 You can reach out me at:
 * [vyahello@gmail.com](vyahello@gmail.com)
-* [https://github.com/vyahello](https://github.com/vyahello)
+* [https://twitter.com/vyahello](https://twitter.com/vyahello)
 * [https://www.linkedin.com/in/volodymyr-yahello-821746127](https://www.linkedin.com/in/volodymyr-yahello-821746127)
 
 ### Contributing
