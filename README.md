@@ -21,7 +21,7 @@ _**Note**: please take into account that it is built for demo purpose but not fo
 ### Quick start
 
 ```bash
-cd app && npm start
+cd app && npm install && npm start
 ```
 
 Then please open [localhost:3000](http://localhost:3000) endpoint.
